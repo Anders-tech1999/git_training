@@ -1,4 +1,3 @@
-library[rshiny]
 library(shiny)
 library(jsonlite)
 library(tidyverse) # load many packages
