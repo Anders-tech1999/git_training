@@ -1,6 +1,6 @@
 library[rshiny]
 library(shiny)
 library(jsonlite)
-library(tidyverse)
+library(tidyverse) # load many packages
 library(shiny)
 library(dplyr)
